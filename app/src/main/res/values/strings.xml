@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WifiPrinter</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_splash">Splash</string>
+    <string name="title_activity_splash2">splash2</string>
+</resources>
